@@ -2,7 +2,7 @@ $ git init
 $ git remote add origin https://github.com/Ixtunu/express-training.git
 $ git config user.name "Ixtunu"
 $ git config user.email "firefox3991@gmail.com"
-$ add .
-$ commit -m "Initial commit"
+$ git add .
+$ git commit -m "Initial commit"
 $ git branch -M main
 $ git push -u origin main
